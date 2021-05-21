@@ -74,7 +74,7 @@ Robo-advisory gives a novice user a safer way to buy and manage a portifolio.  S
 
 Robinhood can be a few among the many who provide a bridge between crypto and more traditional asset swaps. Since traders likely going to have mixed bag this could add a significant ease of cross trading. As the user base natures and the crypto getting more main stream naturally they might seek these options actively.  
 
-## Technologies to Utilize and the Path Forward 
+#### Technologies to Utilize and the Path Forward 
 
 Seamless intergration of curated educational content that blends with the mobile-app is a what Robinhood needs to target. Their lack of depth in this is apparent as a number of reviewrs scored Robinhood signifcantly lower due to their educational content. In adding education content selection and delivery are key factors. Robo-advising also should focus on the demography of users and target who to better serve to and attract from this base. Expanding crypto trading should also be seamless with the app.
 
@@ -97,5 +97,5 @@ Robinhood's point of differentiation and sustanble competitive advantage lies in
 13. [Firstrade vs Robinhood 2021](https://www.stockbrokers.com/compare/firstrade-vs-robinhood)
 14. [Best Online Brokers For Beginners Of 2021](https://www.forbes.com/advisor/investing/best-online-brokers-for-beginners/) 
 15. [Scanning the fintech landscape: 10 disruptive models](https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/scanning-the-fintech-landscape)
-16.[Lookout, Robinhood. E*Trade, Schwab, Ameritrade go zero-fee](https://techcrunch.com/2019/10/02/robinhood-e-trade-schwab-ameritrade/)
+16. [Lookout, Robinhood. E*Trade, Schwab, Ameritrade go zero-fee](https://techcrunch.com/2019/10/02/robinhood-e-trade-schwab-ameritrade/)
 17. [Robinhood Assets Under Management (AUM) in 2021](https://www.brokerage-review.com/investing-firm/assets-under-management/robinhood-aum.aspx)
