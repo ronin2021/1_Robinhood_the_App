@@ -1,4 +1,5 @@
 # Robinhood: App that Stands Apart
+#### - Indrajith Senevirathne 5/21/2021
 
 ## Overview and Origin
 
