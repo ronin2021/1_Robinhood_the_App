@@ -48,7 +48,7 @@ Over the last last decade or so many new competitors have emmerged. Each has cer
 
 ## Results
 
-## Impact on the Sector
+#### Impact on the Sector
 
 Robinhood introduced equity trading to a whole segment of the market low on the income ladder, has less sophistication, and demographocally younger cohort who were disaffectted about the big investment firms in the Wallstreet due to the revelations in the 2008 crash. In that sense Robinhood opened up new markets for brokerages. when looked this way Robinhood have had introduced new customers to the market as a whole. Interms of the capital invested they may not have the same clout as the bigname traders (the likes of the big 4: Schwab, Fidelity, ETrade, and TD Ameritrade). However, Robinhood's lowcost trades, laser-like focus to the user experience and making their enterprise level trading technologies available to the general pupulus had a significant impact collectively on online and mobile app-based brokerage business.   
 
