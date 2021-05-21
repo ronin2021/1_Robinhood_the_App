@@ -44,25 +44,37 @@ These domains have seen significant shifts over the last decade. Webplatforms ha
 
 #### Major Players in these Domains
 
-Over the last last decade or so many new competitors have emmerged. Each has certain points of differentiations but many offer perks that are now points of parities i.e., traders now expect these to be standard to even consider signing with an online brokerage. A few Robinhood competitors are [M1 Finance](https://www.m1finance.com/?affiliateCode=VdlXgGTqexyLWiAxU-SAVSQkUkB2dVQF3xjE0A0&utm_source=1687836&utm_medium=referral&utm_campaign=10646&irgwc=1), [Firstrade](https://www.firstrade.com/content/en-us/welcome), [Webull](https://www.webull.com/activity/get-free-stocks?inviteCode=hFxO2CW56xbq&inviteSource=wb_kol_us), [TD Ameritrade](https://www.tdameritrade.com/why-td-ameritrade.html?adch=aff&CID=CJ2794183&cjevent=3548c57ab9f311eb800e01290a82b820&dclid=CjgKEAjwkZiFBhCV_4r-rduLlHsSJAB2ZHF_aTtgdlc-QjOJC26DcDvw0boSm_o9Uzx3Z8bdEqUSs_D_BwE), and [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=1338). 
+Over the last last decade or so many new competitors have emmerged. Each has certain points of differentiations but many offer perks that are now points of parities i.e., traders now expect these to be standard to even consider signing with an online brokerage. A few comaprable Robinhood competitors are [M1 Finance](https://www.m1finance.com/?affiliateCode=VdlXgGTqexyLWiAxU-SAVSQkUkB2dVQF3xjE0A0&utm_source=1687836&utm_medium=referral&utm_campaign=10646&irgwc=1), [Firstrade](https://www.firstrade.com/content/en-us/welcome), [Webull](https://www.webull.com/activity/get-free-stocks?inviteCode=hFxO2CW56xbq&inviteSource=wb_kol_us), [TD Ameritrade](https://www.tdameritrade.com/why-td-ameritrade.html?adch=aff&CID=CJ2794183&cjevent=3548c57ab9f311eb800e01290a82b820&dclid=CjgKEAjwkZiFBhCV_4r-rduLlHsSJAB2ZHF_aTtgdlc-QjOJC26DcDvw0boSm_o9Uzx3Z8bdEqUSs_D_BwE), and [Interactive Brokers](https://www.interactivebrokers.com/en/index.php?f=1338). On the other hand there are more established competitors now affering online trading such as [Charles Schwab](https://www.schwab.com/promo/brokerage?src=SEM&ef_id=EAIaIQobChMIl8SGiY7b8AIVgP7jBx0-KggXEAAYASAAEgKkoPD_BwE:G:s&s_kwcid=AL!5158!3!473161389082!b!!g!!%2Bschwab%20%2Bbrokerage%20%2Bfirm!648355675!35764812185&keywordid=aud-314039084389:kwd-58953513020&gclid=EAIaIQobChMIl8SGiY7b8AIVgP7jBx0-KggXEAAYASAAEgKkoPD_BwE), [ETRADE](https://us.etrade.com/home?sr_id=BR&mp_id=57103585905&ch_id=p&gclid=EAIaIQobChMIuPzynI7b8AIVsv_jBx2pnwFCEAAYASAAEgL-MfD_BwE&gclsrc=aw.ds),[fidelity](https://www.fidelity.com/), [Ally West](https://www.ally.com/invest/), etc..  
 
 ## Results
 
-* What has been the business impact of this company so far?
+## Impact on the Sector
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Robinhood introduced equity trading to a whole segment of the market whom had low-income, less sophisticated, and demographocally younger cohort who were disaffectted about the big investment firms in the Wallstreet due to the revelations in the 2008 crash. In that sense Robinhood opened up new markets for brokerages. As these young users gain sophistication and the earn more as they get older Robinhood have had introduced new customers to the market as a whole. Interms of the capital invested they may not have the same clout as the bigname traders (the likes of the big 4: Schwab, Fidelity, ETrade, and TD Ameritrade) but lowcost trades, Robinhood's laser-like attention to the user experience and making their enterprise level trading technologies available to the general pupulus had a significant impact on the online and mobile app-based brokerage business as a whole.   
 
-* How is your company performing relative to competitors in the same domain?
+#### Core Performance Metrics in the Domain
+
+Number of users, the quaterly growth of users, trading frequency, average value of an account, are combine value of the assets held, are a few among the metrics used.    
+
+Performance Relative to Competitors
+When considering well established players with an online presence, Chares Schwab had a little above 12mil users with an average of account value of about $300,000. TD Ameritrade (which was acquired by Charles Schwab in 2019) had 12mil with an average account value of $120,000 while ETRADE had a about 7mil users with an average account size of $90,000. When considering more tradition online traders, Vanguard is the biggest with $6.2tri in assets with 30mil accounts (not users, as this is not transparently available). 
+
+More comparrable, M1 Finance posted $2bil asstes in total with 500,000 user base. Another competitor, FirsTrade is also significantly smaller with total assts held at $4bil. Compare this to Robinhood, of 13mil users with average account somewhere between $1,000 to $5,000 ($65bil in total assets under management). As a newcomer user base and its growth for Robinhood is impressive. Having younger demography of user however means average asset value is significantly lower.              
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+#### Products/Services to Add Expand and Retain the Customer Base 
 
-* Why do you think that offering this product or service would benefit the company?
+Two fundemental areas needs addressing. They are the education content (which is by far better in TD Amaritrade) and Robo-advising features ([Betterment](https://www.betterment.com/) has is a clear leader on this). 
 
-* What technologies would this additional product or service utilize?
+A point of parity is where users drop a brokerage firm from a basket of different brokerage considerations they want to subscribe to. Consider air bags in a car (assume the regulators still allow this for a moment), it has become a norm to expect this as a safety feature and if a manufacturer would produce a car with out air bags would you ever consider buying it among other competitor vehicals? Probably not. When a significant number of competitors provide better education experience users who are getting sophisticated (and also likely earning more) would migrate to another brokerage where these services are readily available. 
 
-* Why are these technologies appropriate for your solution?
+Robo-advisory gives a novice user a safer way to buy and manage a portifolio.  Since many of the competitors are providing these services likely they can also become point of parity where users will decide to subscribe or not. 
+
+## Technologies to Utilize and the Path Forward 
+Seamless intergration of curated educational content that blends with the mobile-app is a what they need to target. Number of reviewrs scored Robinhood signifcantly lower due to their educational content. In adding education content selection and delivery are key factors. Robo-advising also should focus on the demography of users and target who to better serve to and attract from this base. 
+
+Robinhood's point of differentiation and sustanble competitive advantage lies in its mobile app. Number of reviwers consistantly rank their app as superior product compared to others. The trick is how to improve with out ceding ground on such a stellr app platform.  
 
 ## References 
 1. [The 11 Biggest Fintech Companies In America 2019](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/?sh=4b47f14732b9)
@@ -76,3 +88,7 @@ Over the last last decade or so many new competitors have emmerged. Each has cer
 9. [Robinhood Review](https://www.stockbrokers.com/review/robinhood)
 10. [The Millenial Robinhood: Take from the poor and give to the rich](https://medium.com/@sidmvenkat/the-millenial-robinhood-take-from-the-poor-and-give-to-the-rich-11634892c4bc#:~:text=First%2C%20the%20average%20account%20size,and%20Charles%20Schwab's%20%24240K.)
 11. [Robin Hood Competitors](https://www.brokerage-review.com/better-compare/competitors/robinhood-vs-competition.aspx)
+12. [Online Brokerage Statistics for 2020](https://www.fool.com/the-ascent/research/online-brokerage-statistics/)
+13. [Firstrade vs Robinhood 2021](https://www.stockbrokers.com/compare/firstrade-vs-robinhood)
+14. [Best Online Brokers For Beginners Of 2021](https://www.forbes.com/advisor/investing/best-online-brokers-for-beginners/) 
+15. [Scanning the fintech landscape: 10 disruptive models](https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/scanning-the-fintech-landscape)
