@@ -50,7 +50,7 @@ Over the last last decade or so many new competitors have emmerged. Each has cer
 
 #### Impact on the Sector
 
-Robinhood introduced equity trading to a whole segment of the market low on the income ladder, has less sophistication, and demographocally younger cohort who were disaffectted about the big investment firms in the Wallstreet due to the revelations in the 2008 crash. In that sense Robinhood opened up new markets for brokerages. when looked this way Robinhood have had introduced new customers to the market as a whole. Interms of the capital invested they may not have the same clout as the bigname traders (the likes of the big 4: Schwab, Fidelity, ETrade, and TD Ameritrade). However, Robinhood's lowcost trades, laser-like focus to the user experience and making their enterprise level trading technologies available to the general pupulus had a significant impact collectively on online and mobile app-based brokerage business.   
+Robinhood introduced equity trading to a whole segment of the market low on the income ladder, has less sophistication, and demographocally younger who were also disaffectted with the big investment firms in Wallstreet since in the 2008 crash. When looked through this perspective Robinhood opened up new markets for brokerages by introduced new customers. Interms of the capital invested they may not have the same clout as the bigname traders (the likes of the big 4: Schwab, Fidelity, ETrade, and TD Ameritrade). However, Robinhood's lowcost trades, laser-like focus to the user experience and making their enterprise level trading technologies available to the general pupulus had a significant impact collectively on online and mobile app-based brokerage business.   
 
 #### Core Performance Metrics in the Domain
 
@@ -81,6 +81,7 @@ Seamless intergration of curated educational content that blends with the mobile
 Robinhood's point of differentiation and sustanble competitive advantage lies in its mobile app. Number of reviwers consistantly rank their app as superior product compared to others. The trick is how to improve with out ceding ground on such a stellr platform.  
 
 ## References 
+
 1. [The 11 Biggest Fintech Companies In America 2019](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/?sh=4b47f14732b9)
 2. [Forget $10 Trades, Meet Robinhood: New Brokerage Targets Millennials With Little Cash](https://www.forbes.com/sites/halahtouryalai/2014/02/26/forget-10-trades-meet-robinhood-new-brokerage-targets-millennials-with-little-cash/?sh=2383ba3f7f48)
 3. [Robinhood](https://en.wikipedia.org/wiki/Robinhood_(company))
